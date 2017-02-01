@@ -1,2 +1,1 @@
-python scripts.
-minor edit to readme file.
+crontab and python script to auto update solr and github.
